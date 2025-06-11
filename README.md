@@ -14,14 +14,6 @@
 | 📊 pandas   | 🪝 React Hook Form | 📄 YAML     |
 
 
-## Table of Contents 📚
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-
 ## Overview 🌐
 **TechSolution Ltd** is a powerful developer tool designed to streamline the integration of a Django backend with a Next.js frontend, specifically tailored for IT support applications.
 
