@@ -4,22 +4,15 @@
 
 ![Last Commit](https://img.shields.io/badge/last_commit-today-brightgreen) ![Commit Rate](https://img.shields.io/badge/commit_rate-91.1%25-blue) ![Languages](https://img.shields.io/badge/languages-4-lightgrey)
 
-Built with the tools and technologies:
-- 🗃️ JSON
-- 📄 Markdown
-- 📦 npm
-- 🔧 Autoprefixer
-- 🎨 PostCSS
-- 💻 JavaScript
-- ⚛️ React
-- 🐍 NumPy
-- 🐍 Python
-- 🔤 TypeScript
-- 📜 Zod
-- 🔍 ESLint
-- 📊 pandas
-- 🪝 React Hook Form
-- 📄 YAML
+### 🛠️ Technologies Used
+
+| 📄 Markdown | 🗃️ JSON     | 📦 npm           |
+|-------------|-------------|------------------|
+| 🔧 Autoprefixer | 🎨 PostCSS | 💻 JavaScript    |
+| ⚛️ React     | 🐍 NumPy   | 🐍 Python        |
+| 🔤 TypeScript | 📜 Zod     | 🔍 ESLint        |
+| 📊 pandas   | 🪝 React Hook Form | 📄 YAML     |
+
 
 ## Table of Contents 📚
 - [Overview](#overview)
